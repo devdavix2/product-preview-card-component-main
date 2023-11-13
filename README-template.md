@@ -10,11 +10,11 @@ I'm thrilled to present my solution to the Product Preview Card Component challe
 
 ### Screenshot
 
-![Screenshot](./solutions/FireShot%20Capture%20004%20-%20Frontend%20Mentor%20-%20Product%20Preview%20Card%20Component.png)
+![Screenshot](./solutions/FireShot%20Capture%20005%20-%20Frontend%20Mentor%20-%20Product%20preview%20card%20component%20-%20127.0.0.1.png)
 
 ### Live Demo
 
-Check out the live demo [here](https://your-live-demo-url.com/).
+Check out the live demo [here](https://product-preview-card-component-main-orpin-tau.vercel.app/).
 
 ## Features
 
@@ -24,7 +24,7 @@ Check out the live demo [here](https://your-live-demo-url.com/).
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/product-preview-card-component.git`
+1. Clone the repository: `git clone https://github.com/devdavix2/product-preview-card-component-main`
 2. Open `index.html` in your preferred web browser.
 
 ## What I Learned
@@ -45,11 +45,11 @@ Looking ahead, I plan to:
 ## Credits
 
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
-- Developed with passion by [Your Name](https://github.com/your-username)
+- Developed with passion by [Devdavix](https://github.com/devdavix2)
 
 ## Connect With Me
 
-Feel free to reach out for questions, feedback, or just to say hi! You can drop me an email at [your.email@example.com].
+Feel free to reach out for questions, feedback, or just to say hi! You can drop me an email at [devdavixx@gmail.com].
 
 ## Special Thanks
 
